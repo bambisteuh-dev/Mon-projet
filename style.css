@@ -27,7 +27,7 @@ h1{
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 10px;
     border: 5px solid #fff;
-    margin: 0;
+    margin: auto;
     
 
 }
@@ -41,7 +41,7 @@ background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0;
+    margin: auto;
     
 }
 
